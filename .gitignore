@@ -1,0 +1,5 @@
+.vscode/
+enviornment/
+
+env/
+chat/__pycache__/
